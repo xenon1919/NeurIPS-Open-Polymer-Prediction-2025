@@ -1,0 +1,8 @@
+kaggle.json
+data/
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
